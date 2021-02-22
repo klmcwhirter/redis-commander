@@ -4,7 +4,7 @@
 .gitignore
 *.iml
 docker-compose.yml
-Dockerfile
+Dockerfile*
 README.md
 
 # directories
